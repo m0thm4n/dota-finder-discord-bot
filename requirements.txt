@@ -1,0 +1,5 @@
+discord.py==2.2.2
+pathlib==1.0.1
+python-dotenv==1.0.0
+Wavelink==2.1.0
+nest-asyncio==1.5.6
